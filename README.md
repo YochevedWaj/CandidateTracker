@@ -1,4 +1,4 @@
-# CandidateTracker
+# Candidate Tracker
 
 A site to manage and keep track of potential candidates. This application was written with C#, React, React Context and
 Entity Framework.
